@@ -1,0 +1,30 @@
+#index-image {
+    width: 500px;
+    height: auto;
+}
+
+#indexlist {
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+    background-color: green
+}
+
+li {
+    font-size: small;
+}
+
+ul li {
+    background-color: yellow;
+}
+
+ol li {
+    background-color: blueviolet;
+}
+
+.moroccan {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: orangered
+}
